@@ -1,5 +1,5 @@
 
-const Request = require('request.libary'),
+const Request = require('request.library'),
 	ENUM = require('./enum.js'),
 	url = require('url');
 
